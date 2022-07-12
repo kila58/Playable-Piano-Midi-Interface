@@ -2,8 +2,6 @@
 
 #include "midifile/include/MidiFile.h"
 
-#include <mutex> 
-
 std::vector<std::thread> tracks;
 
 float timescale = 1.13; //magic number lol
