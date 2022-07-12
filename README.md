@@ -1,5 +1,5 @@
 # Playable Piano Midi Interface
-Midi in/midi file interface for virtual piano compatable keyboard pianos  
+Plays midi in/midi files for virtual piano compatable keyboard pianos.
 
 Works with:  
 Garry's Mod Playable Piano  
