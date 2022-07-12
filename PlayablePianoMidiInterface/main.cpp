@@ -9,6 +9,4 @@ int main(int argc, char** argv)
 		Interface::MidiParse(argc, argv);
 	else
 		Interface::MidiIn();
-
-	system("pause");
 }
