@@ -1,0 +1,40 @@
+﻿  main.cpp
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\interface.h(24,78): error C7525: inline variables require at least '/std:c++17'
+  Binasc.cpp
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\Binasc.cpp(1377,22): warning C4244: 'initializing': conversion from 'ulong' to 'uchar', possible loss of data
+  MidiEvent.cpp
+  MidiEventList.cpp
+  MidiFile.cpp
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\MidiFile.cpp(612,61): warning C4267: 'argument': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\MidiFile.cpp(642,34): warning C4267: '=': conversion from 'size_t' to 'ulong', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\MidiFile.cpp(1293,6): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\MidiFile.cpp(1297,7): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\MidiFile.cpp(2110,21): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\MidiFile.cpp(2178,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\MidiFile.cpp(2274,18): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\MidiFile.cpp(2327,39): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  MidiMessage.cpp
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\MidiMessage.cpp(1357,28): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=uchar
+          ]
+  Options.cpp
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\Options.cpp(407,53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\Options.cpp(419,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\Options.cpp(475,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\Options.cpp(760,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\Options.cpp(781,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\Options.cpp(791,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\Options.cpp(799,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\Options.cpp(809,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\Options.cpp(842,30): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\Options.cpp(971,4): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\Options.cpp(993,13): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\midifile\src\Options.cpp(1002,7): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  midiparse.cpp
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\interface.h(24,78): error C7525: inline variables require at least '/std:c++17'
+  midiin.cpp
+C:\Users\porta\source\repos\PlayablePianoMidiInterface\PlayablePianoMidiInterface\interface.h(24,78): error C7525: inline variables require at least '/std:c++17'
+  RtMidi.cpp
+  Generating Code...
